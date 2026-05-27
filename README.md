@@ -31,7 +31,7 @@ Passionate Programmer | Problem Solver | Aspiring Software Developer
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/notsujeet/" target="blank">
+<a href="https://www.linkedin.com/in/surya-pratap-chauhan-4333b832a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
 </p>
